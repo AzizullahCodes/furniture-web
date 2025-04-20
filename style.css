@@ -1,0 +1,34 @@
+*{margin: 0;
+padding:0;
+box-sizing: border-box;}
+
+.container{max-width: 90%;
+background-color: bisque;
+margin: auto;
+height:100vh;}
+/* -------nav----------- */
+nav{background-color:white;
+display: flex;
+justify-content: space-between;
+padding:14px 0;
+align-items: center;}
+
+.fa-magnifying-glass{font-size: 24px;}
+
+.nav-links ul{display: flex;
+gap:60px;}
+ul a{font-size: 16px;
+color:#171717;
+text-decoration: none;
+font-weight: 600;}
+ul li{list-style: none;}
+.fa-bars{font-size: 30px;
+display: none;}
+
+.logo-p{font-size: 24px;
+color:#254d4d;}
+
+/* --------home-------- */
+.home{background-color: yellow;}
+.row{display: flex;
+gap:20px;}
