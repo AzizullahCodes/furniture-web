@@ -335,4 +335,8 @@ align-items: center;}
 display: flex;
 justify-content: center;
 align-items: center;}
-.container{overflow-x: hidden;}} 
+.container{overflow-x: hidden;
+padding:10px 20px;}
+.about .row .col-2 a{position: relative;
+right: 100px;}
+.about .row .col-1 p{padding:0 20px;}} 
