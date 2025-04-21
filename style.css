@@ -339,4 +339,12 @@ align-items: center;}
 padding:10px 20px;}
 .about .row .col-2 a{position: relative;
 right: 100px;}
-.about .row .col-1 p{padding:0 20px;}} 
+.about .row .col-1 p{padding:0 20px;}
+.p-2{padding-top: 30px;}
+.col-12{margin-top: 30px;}
+#deal-icon{padding:20px 0;}
+.home{margin-top:-60px;}
+.about-h2{position: relative;
+left:40px}
+.about-col-2 a{position: relative;
+right: 130px !important;}} 
